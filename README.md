@@ -35,7 +35,7 @@ Subject headings used frequently include: World War, 1914-1918; Alsace-Lorraine 
 ### Subject Geographic
 Places that are about or mentioned throughout the document. MARC geographic codes also included. Coverage terms seen frequently include: United States; Germany; Belgium; France; Great Britain
 ### Classification
-Library of Congress classification numbers assigned to the item.
+Library of Congress classification number assigned to the item.
 ### Related Item
 Brief note if the item is related to another item in the collection.
 ### Identifier
