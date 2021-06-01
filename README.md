@@ -10,5 +10,18 @@ The University of Colorado at Boulder Libraries' World War I Collection Online o
 ### Date
 ### Issuance
 ### Language
+### Issuance
+### Form
+### Internet Media Type
+### Digital Origin
+### Note
+### Subject Topic
+### Subject Geographic
+### Classification
+### Related Item
+### Identifier
+### Physical Location
+### Access Condition
 ## Resources
 ## Notes
+
