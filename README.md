@@ -5,7 +5,7 @@ The University of Colorado at Boulder Libraries' World War I Collection Online o
 ### Collection Name
 World War I Pamphlets Collection
 ### Title
-Titles are copied from covers or front pages of the documents.
+Titles are derived from covers or front pages of the documents.
 ### Name
 Person who created the document. This can include individuals or corporate entities such as government agencies.
 ### Type of Resource
