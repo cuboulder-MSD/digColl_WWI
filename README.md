@@ -2,14 +2,17 @@
 ## Description
 The University of Colorado at Boulder Libraries' World War I Collection Online offers a rich array of primary-source material related to the First World War. The digital collection consists of over 1,100 titles (55,000+ pages), mainly published during the war years, and represents a wide range of formats, genres, geopolitical units, and subject matter. 
 
-Link to the digital collection [here](https://doi.org/10.25810/4m7s-s286).
+Permanent address to digital collection: [https://doi.org/10.25810/4m7s-s286](https://doi.org/10.25810/4m7s-s286).<br /> 
+Please use the same link when sharing or citing the collection.
 ## Metadata
 ### Collection Name
-World War I Pamphlets Collection
+Name of the collection: World War I Pamphlets Collection
 ### Title
-Titles are derived from covers or front pages of the documents.
+Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
+
 ### Name
-Person who created the document. This can include individuals or corporate entities such as government agencies.
+Individual(s) or corporate entities that created or are associated with the work.
+
 ### Type of Resource
 Language material
 ### Place Term
