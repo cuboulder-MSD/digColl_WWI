@@ -11,24 +11,40 @@ Name of the collection: World War I Pamphlets Collection
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 
 ### Name
-Individual(s) or corporate entities that created or are associated with the work.
+Individual(s) or corporate entities that created or are associated with the work. 
 
+Common names seen in the collection include: Navy League of the United States; Myers, Garry Cleveland, 1884-; Buchan, John, 1875-1940   
 ### Type of Resource
-Language material
+A term that specifies the characteristics and general type of content of the resource. 
+
+Type terms used in this collection include: Language material
 ### Place Term
-Location of where the item was created or came from.
-### Place Term Type
-Text
-### Date
-Date created or issued.
+Geographic location(s) relevant to the item. 
+
+Some coverage terms used in the collection include: Paris; France; Washington; New York; London; Nevada 
+### Date Issued
+The date that the resource was published, released, or issued. 
+
+Date ranges include: 1910s
+### Date Created
+The date of creation of the resource. Date ranges include:
+
+Date ranges include: 1910s
 ### Issuance
 Monograph/item
 ### Language
-Items are mostly in English. Some items are written in French.
+Contains the textual or coded form for the language of the content of the resource. 
+
+Language(s) seen in this collection include: English. Some items are written in French.
 ### Form
-Electronic
+A particular physical presentation of a resource, including the physical form or medium of material for a resource. 
+
+Form terms include: electronic
+
 ### Internet Media Type
-Legacy metadata states items are tiff but items online are in pdf format.
+Standard that indicates the nature and format of a document, file, or assortment of bytes. The [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/assignments/media-types/media-types.xhtml) is responsible for all official MIME. 
+
+Media type(s) in this collection: tiff
 ### Extent
 Describes the number of pages and size of the document.
 ### Digital Origin
