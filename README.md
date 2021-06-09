@@ -46,27 +46,40 @@ Standard that indicates the nature and format of a document, file, or assortment
 
 Media type(s) in this collection: tiff
 ### Extent
-Describes the number of pages and size of the document.
+The size or scale of the work.
 ### Digital Origin
-Reformatted digital
+The method by which a resource achieved digital form. 
+
+Origin for this collection: reformatted digital
+
 ### Note
-Notes provide additional information about authors, translators, languages, and title information.
+Additional notes or description of the content of the item. May contain cataloger's notes as deemed relevant.
 ### Subject Topic
-Subject headings used frequently include: World War, 1914-1918; Alsace-Lorraine question; United States; Neutrality
+A term or phrase representing the primary topic(s) on which a work is focused. 
+
+Common subject terms used in this collection include: World War, 1914-1918; Alsace-Lorraine question; United States; Neutrality
 ### Subject Geographic
-Places that are about or mentioned throughout the document. MARC geographic codes also included. Coverage terms seen frequently include: United States; Germany; Belgium; France; Great Britain
+Geographic location(s) relevant to the item. 
+
+Some coverage terms used in the collection include: United States; Germany; Belgium; France; Great Britain
 ### Classification
 Library of Congress classification number assigned to the item.
 ### Related Item
-Brief note if the item is related to another item in the collection.
+Information that identifies other resources related to the one being described.
 ### Identifier
-Another identifier given to the item. An example is: i73542726
-### Physical Location
-UCB Libraries Archives
-### Access Condition
-The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States, but a determination was not made as to its copyright status under the copyright laws of other countries. The Item may not be in the Public Domain under the laws of other countries. Please refer to the organization that has made the Item available for more information.
+Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. 
 
-Access Condition comes from [rightsstatment.org](https://rightsstatements.org/page/NoC-US/1.0/?language=en)
+Example: i73542726
+### Physical Location
+The institution or repository that holds the resource or where it is available: UCB Libraries Archives
+### Access Condition
+Information about restrictions imposed on access to a resource.
+
+Statement in collection: The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States, but a determination was not made as to its copyright status under the copyright laws of other countries. The Item may not be in the Public Domain under the laws of other countries. Please refer to the organization that has made the Item available for more information. https://rightsstatements.org/page/NoC-US/1.0/?language=en
+
+Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
+
 ## Resources
+
 ## Notes
 Collection includes a mix of MARC metadata and non-MARC metadata.
